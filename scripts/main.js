@@ -7,7 +7,7 @@ var mouse = new Point();
 var ctx;
 var ctxmenu;
 var ctxunit;
-var money = 1000000;
+var money = 200;
 var counter = 0;
 
 var message = "";
